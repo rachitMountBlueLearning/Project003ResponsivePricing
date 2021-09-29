@@ -2,6 +2,7 @@
 
 ![Design preview for the File Transfer pricing component coding challenge](./design/desktop-preview.jpg)
 
+### [This project is deployed here](https://project003-responsive-pricing.vercel.app)
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
